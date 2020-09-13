@@ -8,3 +8,5 @@ Gathering, Data Pre-Processing, Data Exploration, Data Modelling, Data Interpret
 and Data Visualization. Various concepts of Data Science and tools of Machine Learning
 would be used to provide structure and insight to the data. After following through with all
 the steps, the results would be in accordance with the problem statement.
+
+Dataset link - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
